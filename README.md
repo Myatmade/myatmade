@@ -6,10 +6,11 @@ Web Developer and Designer
 
 I have started learning programming with C++. Then, after I have moved to Japan to study Information Science, I continued to learn Python, Java and C. I have also came to understand how HTML, CSS and JavaScript works from classes. I typically enjoy making UI/ UX designs.
 
-*   🌍  I'm currently studying in Ritsumeikan University, Japan
+*   🌍  I'm currently studying in Ritsumeikan University, Japan (<a href="https://en.ritsumei.ac.jp/ise/isse/">College of Information Science and Engineering</a>)
 *   ✉️  You can contact me at [myatmade.may@gmail.com](mailto:myatmade.may@gmail.com)
-*   🧠  I'm learning React and Node.js
-*   🤝  I'm open to collaborating on web-app projects
+*   🧠  I'm passionate about making websites and strengthening my tech stack in React, Tailwind CSS and TypeScript
+*   🌐  I've started learning Vue and Laravel for my backend knowledge
+*   🤝  I've currently interning as front end developer and taking on new challenges every day at <a href="https://circle-inc.com/">CIRCLE</a>
 *   ⚡  I'm trilingual (Burmese, English, Japanese)
 *   ### Skills 
 <p align="left">
