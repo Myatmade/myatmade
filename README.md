@@ -6,6 +6,8 @@ Web Developer and Designer
 
 I have started learning programming with C++. Then, after I have moved to Japan to study Information Science, I continued to learn Python, Java and C. I have also came to understand how HTML, CSS and JavaScript works from classes. I typically enjoy making UI/ UX designs.
 
+My portfolio is available here: https://myat-ma-de-may-phuu-ngon.netlify.app/
+
 *   🌍  I'm currently studying in Ritsumeikan University, Japan (<a href="https://en.ritsumei.ac.jp/ise/isse/">College of Information Science and Engineering</a>)
 *   ✉️  You can contact me at [myatmade.may@gmail.com](mailto:myatmade.may@gmail.com)
 *   🧠  I'm passionate about making websites and strengthening my tech stack in React, Tailwind CSS and TypeScript
