@@ -8,11 +8,11 @@ I have started learning programming with C++. Then, after I have moved to Japan 
 
 My portfolio is available here: https://myat-ma-de-may-phuu-ngon.netlify.app/
 
-*   🌍  I'm currently studying in Ritsumeikan University, Japan (<a href="https://en.ritsumei.ac.jp/ise/isse/">College of Information Science and Engineering</a>)
+*   🌍  I'm currently studying in Ritsumeikan University, Japan (<a href="https://en.ritsumei.ac.jp/ise/isse/" target="_blank" rel="noopener">College of Information Science and Engineering</a>)
 *   ✉️  You can contact me at [myatmade.may@gmail.com](mailto:myatmade.may@gmail.com)
 *   🧠  I'm passionate about making websites and strengthening my tech stack in React, Tailwind CSS and TypeScript
 *   🌐  I've started learning Vue and Laravel for my backend knowledge
-*   🤝  I've currently interning as front end developer and taking on new challenges every day at <a href="https://circle-inc.com/">CIRCLE</a>
+*   🤝  I've currently interning as front end developer and taking on new challenges every day at <a href="https://circle-inc.com/" target="_blank" rel="noopener">CIRCLE</a>
 *   ⚡  I'm trilingual (Burmese, English, Japanese)
 *   ### Skills 
 <p align="left">
